@@ -5,9 +5,9 @@ body {
 hr {
   width:100%;
   border-style:none;
-  border-top-style: dotted;
+  border-top-style: solid;
   color:gray;
-  border-width:10px;
+  border-width:5px;
   margin:0;
 }
 
